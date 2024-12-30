@@ -1,0 +1,20 @@
+addition
+ArrayList (avg): 324.64ms
+LinkedList (avg): 389.51ms
+
+random_access
+ArrayList (avg): 180.20ms
+LinkedList (avg): 924.69ms
+
+removal_random
+ArrayList (avg): 337.69ms
+LinkedList (avg): 802.66ms
+
+removal_filo
+ArrayList (avg): 357.18ms
+LinkedList (avg): 340.41ms
+
+removal_fifo
+ArrayList (avg): 226.49ms
+LinkedList (avg): 321.00ms
+
